@@ -8,7 +8,7 @@
 
 | Язык                                                                                                                                       | Примечания                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Kotlin<br>            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /><br>          <br> | Основной язык для разработки Android-приложений. Использую Jetpack Compose, Coroutines,Room Persistence Library, Retrofit, OkHttp.                      |
+| Kotlin<br>            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /><br>          <br> | Основной язык для разработки Android-приложений. Использую Jetpack Compose, Coroutines,Room Persistence Library, Retrofit, OkHttp, Flow.                      |
 | Python<br>            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><br>               | Использую для написания скриптов автоматизации и сетевых утилит, а также для математических вычислений и решений стохастических систем. |
 
 
